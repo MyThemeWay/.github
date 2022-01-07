@@ -11,11 +11,11 @@
 
 <table>
 <td align="center" width="500px">
-<p></p>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Stars & Forks of Disks Header" target="_blank"> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-disks?label="/></img> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-disks?label="/></img></a></div>
 
 https://user-images.githubusercontent.com/16251546/146669386-89b3ad17-6424-47a3-9f23-f779eeb2db2d.mp4
 
-<a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MyThemeWay&repo=mtw-canvas-disks&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a>
+<div><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Explore Disks Header" target="_blank"><img height="30" src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-grey.svg"/></img></div>
 
 </td>
 </table>
@@ -23,11 +23,11 @@ https://user-images.githubusercontent.com/16251546/146669386-89b3ad17-6424-47a3-
 <div align="right">
 <table>
 <td align="center" width="500px">
-<p></p>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Stars & Forks of Malachite Header" target="_blank"> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-malachite?label="/></img> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-malachite?label="/></img></a></div>
 
 https://user-images.githubusercontent.com/16251546/146669429-ae1dc399-cd7a-4c6e-9135-2c8a6e298df7.mp4
 
-<a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MyThemeWay&repo=mtw-canvas-malachite&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a>
+<div><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Explore Malachite Header" target="_blank"><img height="30" src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-2A2E30.svg"/></img></div>
 
 </td>
 </table>
@@ -35,11 +35,11 @@ https://user-images.githubusercontent.com/16251546/146669429-ae1dc399-cd7a-4c6e-
 
 <table>
 <td align="center" width="500px">
-<p></p>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Stars & Forks of Spiral Header" target="_blank"> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-spiral?label="/></img> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-spiral?label="/></img></a></div>
 
 https://user-images.githubusercontent.com/16251546/146669436-dff614aa-2ce5-46cc-8163-db73b2c2570e.mp4
 
-<a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MyThemeWay&repo=mtw-canvas-spiral&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a>
+<div><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Explore Spiral Header" target="_blank"><img height="30" src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-grey.svg"/></img></div>
 
 </td>
 </table>
@@ -47,21 +47,21 @@ https://user-images.githubusercontent.com/16251546/146669436-dff614aa-2ce5-46cc-
 <div align="right">
 <table>
 <td align="center" width="500px">
-<p></p>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Stars & Forks of Blacksea Header" target="_blank"> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-blacksea?label="/></img> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-blacksea?label="/></img></a></div>
 
 https://user-images.githubusercontent.com/16251546/146669441-251d9545-0164-442b-8de4-3a6148481e20.mp4
 
-<a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MyThemeWay&repo=mtw-canvas-blacksea&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a>
+<div><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Explore Blacksea Header" target="_blank"><img height="30" src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-2A2E30.svg"/></img></div>
 
 </td>
 </table>
 </div>
 
-<div align="center">
+<div align="center"><br>
 
 # See you :wave:
-<img alt="&nbsp;pending..." height=25 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/mytoolkit/Profile-Visitors-2A2E30.svg"/></img><br>
-<img height=24 src="https://badges.pufler.dev/visits/mythemeway/.github?label=&color=blue"/></img>
+<img alt="&nbsp;pending..." height="25" src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/mytoolkit/Profile-Visitors-2A2E30.svg"/></img><br>
+<img height="24" src="https://badges.pufler.dev/visits/mythemeway/.github?label=&color=blue"/></img>
 
 </div>
 
@@ -74,6 +74,7 @@ https://user-images.githubusercontent.com/16251546/146669441-251d9545-0164-442b-
 > * The linked pages were checked for possible legal violations at the time of linking and illegal content wasn't discernible. A permanent control of the linked pages is unreasonable without concrete evidence of an infringement. However, if the README operator becomes aware of such a violation, he will act immediately. 
 
 ### Readme uses
+> * [star-solid.svg](https://fontawesome.com/v5.15/icons/star?style=solid "Check it out") & [code-branch-solid.svg](https://fontawesome.com/v5.15/icons/code-branch?style=solid "Check it out") [License: [CC&nbsp;BY&nbsp;4.0](https://fontawesome.com/license/free "Check it out"); Copyright ©️  Fonticons, Inc.; Changes: width, height and fill color]
 > * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats "Check it out") [License: [MIT](https://github.com/anuraghazra/github-readme-stats/blob/master/LICENSE "Go there"); Copyright ©️ 2021 Anurag Hazra]
 > * [git-badges](https://github.com/puf17640/git-badges "Check it out") [License: [BSD&nbsp;3-Clause](https://github.com/puf17640/git-badges/blob/master/LICENSE "Go there"); Copyright ©️ 2020 Julian Pufler]
 > * [Shields.io](https://github.com/badges/shields "Check it out") [License: [CC0&nbsp;1.0](https://github.com/badges/shields/blob/master/LICENSE "Go there")] 
