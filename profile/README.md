@@ -1,11 +1,15 @@
 <div align="center">
 
 # <img src="https://avatars.githubusercontent.com/u/52597090?s=60&amp;v=4" alt="@MyThemeWay" size="25" height="25" width="25"></img> Boilerplates :hotsprings:
-<a align="center" href="https://github.com/mythemeway" title="Explore this" target="_blank"><img src="https://i.redd.it/txxr1z113ib61.gif" width="804"/></a>
+
+<a align="center" href="https://github.com/MyThemeWay/Dark-Particle" title="Explore this" target="_blank"><img src="https://i.redd.it/txxr1z113ib61.gif" width="804"/></a>
 <a href="https://github.com/MyThemeWay/Dark-Particle" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=Dark-Particle&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905"/></a>
 <a href="https://github.com/MyThemeWay/Light-Particle" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=Light-Particle&border_color=050B0E&title_color=2A2E30&icon_color=2F80ED" /></a>
 
-# <img src="https://avatars.githubusercontent.com/u/52597090?s=60&amp;v=4" alt="@MyThemeWay" size="25" height="25" width="25"></img> WebGL Headers :ghost:
+<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-canvas" title="Explore this" target="_blank"><img src="https://github.com/sitdisch/cloud/blob/master/gifs/mtw-boilerplate-canvas.gif?raw=true" width="804"/></a>
+<a href="https://github.com/MyThemeWay/mtw-boilerplate-canvas" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-canvas&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905"/></a>
+
+# <img src="https://avatars.githubusercontent.com/u/52597090?s=60&amp;v=4" alt="@MyThemeWay" size="25" height="25" width="25"></img> WebGL Canvases :ghost:
 
 </div>
 
