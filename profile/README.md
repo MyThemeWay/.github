@@ -43,6 +43,7 @@
 
 </div>
 
+<div align="right">
 <table>
 <td align="center" width="500px">
 <div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Stars of Disks Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-disks?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Forks of Disks Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-disks?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-disks#embed-via-jsdelivr" title="jsDelivr Hits of Disks Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-disks?label=Hits&color=blue&logo=jsdelivr&cacheSeconds=3600" /></a></div>
@@ -53,8 +54,8 @@ https://user-images.githubusercontent.com/16251546/146669386-89b3ad17-6424-47a3-
 
 </td>
 </table>
+</div>
 
-<div align="right">
 <table>
 <td align="center" width="500px">
 <div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Stars of Malachite Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-malachite?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Forks of Malachite Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-malachite?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-malachite#embed-via-jsdelivr" title="jsDelivr Hits of Malachite Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-malachite?label=Hits&color=blue&logo=jsdelivr&cacheSeconds=3600" /></a></div>
@@ -65,8 +66,8 @@ https://user-images.githubusercontent.com/16251546/146669429-ae1dc399-cd7a-4c6e-
 
 </td>
 </table>
-</div>
 
+<div align="right">
 <table>
 <td align="center" width="500px">
 <div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Stars of Spiral Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-spiral?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Forks of Spiral Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-spiral?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-spiral#embed-via-jsdelivr" title="jsDelivr Hits of Spiral Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-spiral?label=Hits&color=blue&logo=jsdelivr&cacheSeconds=3600" /></a></div>
@@ -77,8 +78,8 @@ https://user-images.githubusercontent.com/16251546/146669436-dff614aa-2ce5-46cc-
 
 </td>
 </table>
+</div>
 
-<div align="right">
 <table>
 <td align="center" width="500px">
 <div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Stars of Blacksea Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-blacksea?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Forks of Blacksea Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-blacksea?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-blacksea#embed-via-jsdelivr" title="jsDelivr Hits of Blacksea Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-blacksea?label=Hits&color=blue&logo=jsdelivr&cacheSeconds=3600" /></a></div>
@@ -89,7 +90,6 @@ https://user-images.githubusercontent.com/16251546/146669441-251d9545-0164-442b-
 
 </td>
 </table>
-</div>
 
 <div align="center">
 
