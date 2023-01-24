@@ -2,17 +2,33 @@
 
 # <img src="https://avatars.githubusercontent.com/u/52597090?s=60&amp;v=4" alt="@MyThemeWay" size="25" height="25" width="25"/> Boilerplates :hotsprings:
 
-<a align="center" href="https://github.com/MyThemeWay/Dark-Particle" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/438165795/0c9f226b-ef34-48db-b2e3-dc138ca86efa" width="804"/></a>
-<a href="https://github.com/MyThemeWay/Dark-Particle" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=Dark-Particle&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905"/></a>
-<a href="https://github.com/MyThemeWay/Light-Particle" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=Light-Particle&border_color=050B0E&title_color=2A2E30&icon_color=2F80ED" /></a>
+<a href="https://github.com/MyThemeWay/Dark-Particle" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/438165795/0c9f226b-ef34-48db-b2e3-dc138ca86efa" width="800"/></a>
 
-</div>
+<table>
+<tr>
+<td align="right" width="400px">
+<a href="https://github.com/MyThemeWay/Dark-Particle" title="Check it out" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/others/Dark-Particle-grey.svg"/></a><br>
+<a href="https://github.com/MyThemeWay/Dark-Particle" title="Stars of Dark-Particle" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/> <img src="https://img.shields.io/github/stars/MyThemeWay/Dark-Particle?label=&cacheSeconds=3600"/></a> <a href="https://github.com/MyThemeWay/Dark-Particle" title="Forks of Dark-Particle" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/> <img src="https://img.shields.io/github/forks/MyThemeWay/Dark-Particle?label=&cacheSeconds=3600"/></a>
+</td>
+
+<td align="left" width="400px">
+<a href="https://github.com/MyThemeWay/Light-Particle" title="Check it out" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/others/Light-Particle-grey.svg"/></a><br>
+<a href="https://github.com/MyThemeWay/Light-Particle" title="Stars of Light-Particle" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/> <img src="https://img.shields.io/github/stars/MyThemeWay/Light-Particle?label=&cacheSeconds=3600"/></a> <a href="https://github.com/MyThemeWay/Light-Particle" title="Forks of Light-Particle" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/> <img src="https://img.shields.io/github/forks/MyThemeWay/Light-Particle?label=&cacheSeconds=3600"/></a>
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/MyThemeWay/Dark-Particle" title="Explore this" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/github_pins/particle_dark.svg"/></a>
+<a href="https://github.com/MyThemeWay/Light-Particle" title="Explore this" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/github_pins/particle_light.svg" /></a>
+
+</div><br>
 
 <table>
 <td align="center" width="500px">
 
-<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-decks" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/505743675/a0d372b8-8f22-4373-aa0f-99fe0793743e" width="804"/></a>
-<a href="https://github.com/MyThemeWay/mtw-boilerplate-decks" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-decks&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905"/></a>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-boilerplate-decks" title="Stars of mtw-boilerplate-decks" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-boilerplate-decks?label=&cacheSeconds=3600"/></a> <a href="https://github.com/MyThemeWay/mtw-boilerplate-decks" title="Forks of mtw-boilerplate-decks" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-boilerplate-decks?label=&cacheSeconds=3600"/></a></div>
+<a href="https://github.com/MyThemeWay/mtw-boilerplate-decks" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/505743675/a0d372b8-8f22-4373-aa0f-99fe0793743e"/></a>
+<a href="https://github.com/MyThemeWay/mtw-boilerplate-decks" title="Explore this" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/github_pins/boilerplate_decks.svg"/></a>
 
 </td>
 </table>
@@ -21,8 +37,9 @@
 <table>
 <td align="center" width="500px">
 
-<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-graphics" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/467431589/d31c5129-c82f-4fd5-94d0-d4229a5a2dd7" width="804"/></a>
-<a href="https://github.com/MyThemeWay/mtw-boilerplate-graphics" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-graphics&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905"/></a>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-boilerplate-graphics" title="Stars of mtw-boilerplate-graphics" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-boilerplate-graphics?label=&cacheSeconds=3600"/></a> <a href="https://github.com/MyThemeWay/mtw-boilerplate-graphics" title="Forks of mtw-boilerplate-graphics" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-boilerplate-graphics?label=&cacheSeconds=3600"/></a></div>
+<a href="https://github.com/MyThemeWay/mtw-boilerplate-graphics" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/467431589/d31c5129-c82f-4fd5-94d0-d4229a5a2dd7"/></a>
+<a href="https://github.com/MyThemeWay/mtw-boilerplate-graphics" title="Explore this" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/github_pins/boilerplate_graphics.svg"/></a>
 
 </td>
 </table>
@@ -31,8 +48,9 @@
 <table>
 <td align="center" width="500px">
 
-<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/481295060/7ec8fd63-8ea7-4bff-a601-4777b509c44f" width="804"/></a>
-<a href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-charts&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905"/></a>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Stars of mtw-boilerplate-charts" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-boilerplate-charts?label=&cacheSeconds=3600"/></a> <a href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Forks of mtw-boilerplate-charts" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-boilerplate-charts?label=&cacheSeconds=3600"/></a></div>
+<a href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/481295060/7ec8fd63-8ea7-4bff-a601-4777b509c44f"/></a>
+<a href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/github_pins/boilerplate_charts.svg"/></a>
 
 </td>
 </table>
@@ -94,9 +112,6 @@ https://user-images.githubusercontent.com/16251546/146669441-251d9545-0164-442b-
 <div align="center">
 
 # See you :wave:
-<img height="25" src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/mytoolkit/Profile-Visitors-2A2E30.svg"/><br>
-<img alt="&nbsp;pending..." height="24" src="https://badges.pufler.dev/visits/mythemeway/.github?label=&color=blue"/>
-
 </div>
 
 ### Note on protected brand names and logos
@@ -111,6 +126,5 @@ https://user-images.githubusercontent.com/16251546/146669441-251d9545-0164-442b-
 ### Readme uses
 > * [star-solid.svg](https://fontawesome.com/v5.15/icons/star?style=solid "Check it out") & [code-branch-solid.svg](https://fontawesome.com/v5.15/icons/code-branch?style=solid "Check it out") [License: [CC&nbsp;BY&nbsp;4.0](https://fontawesome.com/license/free "Check it out"); Copyright: ©️  Fonticons, Inc.; Changes: made]
 > * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats "Check it out") [License: [MIT](https://github.com/anuraghazra/github-readme-stats/blob/master/LICENSE "Go there"); Copyright: ©️ 2021 Anurag Hazra]
-> * [git-badges](https://github.com/puf17640/git-badges "Check it out") [License: [BSD&nbsp;3-Clause](https://github.com/puf17640/git-badges/blob/master/LICENSE "Go there"); Copyright: ©️ 2020 Julian Pufler]
 > * [Simple Icons](https://simpleicons.org/ "Check it out") [License: [CC0&nbsp;1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md "Go there")]
 > * [Shields.io](https://github.com/badges/shields "Check it out") [License: [CC0&nbsp;1.0](https://github.com/badges/shields/blob/master/LICENSE "Go there")] 
